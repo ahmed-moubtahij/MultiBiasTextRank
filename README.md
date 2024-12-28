@@ -78,7 +78,7 @@ curl -sSL https://install.python-poetry.org | python3 -
 ### Installation
 
 ```sh
-git clone https://github.com/croesuslab/lab30-summarization-ahmedm/tree/main/models/MultiBiasTextRank
+git clone https://github.com/ahmed-moubtahij/MultiBiasTextRank.git
 cd MultiBiasTextRank/
 poetry install
 ```
