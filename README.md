@@ -101,7 +101,7 @@ See `test_mbtr.py` and `test_ess_mbtr.py`.
 <!-- CONTACT -->
 ## Contact
 
-ahmed.moubtahij.1@ens.etsmtl.ca
+[@ahmed_moubtahij](https://x.com/ahmed_moubtahij)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
