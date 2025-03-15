@@ -60,7 +60,7 @@ Current Query-Focused Summarization (QFS) models consider a single input query. 
 
 The Compound Bias-Focused Summarization (CBFS) framework combines the effects of multiple biases, thus partitionning the linguistic and informational constraints. This is analoguous to humans reformulating questions from multiple perspectives or through various language registers for a wider coverage of their audience. Additionally, non-query biases such as sentiment strength can be factored in for Explicative Sentiment Summarization (ESS).
 
-Here, we extend [Kazemi et al. (2020)](https://aclanthology.org/2020.coling-main.144/)’s Biased TextRank model to **Multi-Bias TextRank** to demonstrate the CBFS framework.
+Here, we extend [Kazemi et al. (2020)](https://aclanthology.org/2020.coling-main.144/)’s Biased TextRank model to **Multi-Bias TextRank** to demonstrate the CBFS framework. See full paper at [Moubtahij et al., 2023](https://espace.etsmtl.ca/id/eprint/3239/1/MOUBTAHIJ_Ahmed.pdf).
 
 <!-- REFERENCES -->
 <!-- ## References -->
