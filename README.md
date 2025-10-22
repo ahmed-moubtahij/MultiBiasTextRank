@@ -7,6 +7,7 @@
   <!-- <img src="images/CBFS.png" alt="Logo" width="500" height="350"> -->
 
   <h3 align="center">Multi-Bias TextRank</h3>
+  <h3>https://www.arxiv.org/abs/2509.11989 (Moubtahij et al., 2022 - published in 2025)</h3>
 
   <p align="center">
     Compound Bias-Focused Extractive Summarization
